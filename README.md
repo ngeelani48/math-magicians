@@ -91,7 +91,7 @@ Install this project with:
 
 To run the project, execute the following command:
 - After Cloning this repo to your local machine
-- Open the `index.html` from dist folder in your browser
+- Open the `index.html` from public folder in your browser
 - Open with Live Server
 ### Run tests
 
