@@ -1,10 +1,8 @@
-import React from 'react'
-import CalcDisplay from './CalcDisplay'
+import React from 'react';
+import CalcDisplay from './CalcDisplay';
 
-const Calculator = () => {
-  return (
-    <CalcDisplay></CalcDisplay>
-  )
-}
+const Calculator = () => (
+  <CalcDisplay />
+);
 
-export default Calculator
+export default Calculator;
