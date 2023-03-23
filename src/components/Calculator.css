@@ -24,9 +24,11 @@
   background-color: #f5913e;
   font-size: 1.2rem;
 }
+
 .calc-button-right:hover {
   background-color: #ca603f;
 }
+
 .calc-buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -38,10 +40,12 @@
   border: none;
   height: 55px;
 }
+
 .calc-button:hover,
 .calc-button-zero:hover {
   background-color: #fff;
 }
+
 button {
   cursor: pointer;
 }
