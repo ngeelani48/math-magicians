@@ -4,3 +4,12 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  overflow: auto;
+  justify-content: center;
+  gap: 0;
+}

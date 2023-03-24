@@ -15,6 +15,7 @@ const Calculator = () => {
   };
   return (
     <div className="container">
+      <h1><u>Calculator</u></h1>
       <div className="result-display">{state.next || state.total || '0'}</div>
       <div className="calc-buttons">
         <Button value="AC" className="calc-button" handleClick={handleClick} />

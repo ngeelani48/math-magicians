@@ -1,7 +1,12 @@
 .container {
   max-width: 450px;
+  min-width: 450px;
   margin: auto;
-  padding-top: 15%;
+  padding-top: 5%;
+}
+
+h1 {
+  text-align: center;
 }
 
 .result-display {
