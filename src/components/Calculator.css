@@ -1,12 +1,24 @@
+.layout {
+  display: flex;
+  gap: 50px;
+  padding: 0 50px;
+  align-items: center;
+}
 .container {
-  max-width: 450px;
-  min-width: 450px;
+  max-width: 40rem;
+  min-width: 35rem;
   margin: auto;
-  padding-top: 5%;
+  position:fixed;
+  bottom: 15%;
+  right: 2%;
+  border: 2px solid #858694;
+  padding: 1%;
 }
 
-h1 {
+.calc-title {
   text-align: center;
+  font-size: 2rem;
+  margin: 8%;
 }
 
 .result-display {
@@ -15,14 +27,14 @@ h1 {
   font-size: 1.5rem;
   text-align: right;
   padding: 10px;
-  height: 40px;
+  height: 55px;
 }
 
 .calc-button-zero {
   grid-column: 1 / 3;
   font-size: 1rem;
   border: none;
-  height: 55px;
+  height: 70px;
 }
 
 .calc-button-right {
@@ -43,7 +55,7 @@ h1 {
 .calc-button {
   font-size: 1rem;
   border: none;
-  height: 55px;
+  height: 70px;
 }
 
 .calc-button:hover,

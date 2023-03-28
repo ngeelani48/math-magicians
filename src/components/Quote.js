@@ -10,7 +10,7 @@ function Quotes() {
   useEffect(() => {
     setIsLoading(true);
     fetch(
-      'https://api.api-ninjas.com/v1/quotes?category=happiness',
+      'https://api.api-ninjas.com/v1/quotes?category=learning',
       {
         headers: {
           'X-Api-Key': '2sCRumpxuExNkeNr5HSShQ==KhOZ0TH12B6g4f8i',
