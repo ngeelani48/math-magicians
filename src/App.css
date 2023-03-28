@@ -1,27 +1,32 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
 }
+
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
   padding: 0 2rem;
 }
+
 .main-title {
   font-size: 3rem;
   margin-top: 0.6%;
 }
+
 .nav ul {
   display: flex;
   list-style: none;
   gap: 1rem;
   align-items: center;
 }
+
 hr {
   min-height: 50%;
   max-height: 90vh;
@@ -30,16 +35,18 @@ hr {
   background-color: #000;
   border: none;
 }
+
 .nav a {
-height: 100%;
-font-size: 1.2rem;
-align-items: center;
-padding: .25rem;
+  height: 100%;
+  font-size: 1.2rem;
+  align-items: center;
+  padding: 0.25rem;
 }
+
 .nav li.active {
   background-color: #555;
 }
+
 .nav li:hover {
   background-color: #777;
 }
-

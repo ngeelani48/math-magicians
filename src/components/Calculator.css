@@ -4,11 +4,12 @@
   padding: 0 50px;
   align-items: center;
 }
+
 .container {
   max-width: 40rem;
   min-width: 35rem;
   margin: auto;
-  position:fixed;
+  position: fixed;
   bottom: 15%;
   right: 2%;
   border: 2px solid #858694;
