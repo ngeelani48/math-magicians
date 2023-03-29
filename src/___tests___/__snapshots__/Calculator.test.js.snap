@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`check if the calculator renders properly 1`] = `
+exports[`check if the Calculator renders properly 1`] = `
 <div
   className="layout"
 >
