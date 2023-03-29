@@ -55,7 +55,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Will be updated soon]
+- [https://math-magician-4xmk.onrender.com/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +119,7 @@ npm run start
 
 You can deploy this project using:
 
-(Comming Soon)
+(https://math-magician-4xmk.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
