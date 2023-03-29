@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check if the  section renders properly 1`] = `
+<div
+  className="quotes"
+>
+  <h2>
+    <u>
+      Quote
+    </u>
+  </h2>
+  <div>
+    <p />
+    <p>
+      <b />
+    </p>
+  </div>
+</div>
+`;
+
+exports[`check if the Home section renders properly 1`] = `
+<div
+  className="quotes"
+>
+  <h2>
+    <u>
+      Quote
+    </u>
+  </h2>
+  <div>
+    <p />
+    <p>
+      <b />
+    </p>
+  </div>
+</div>
+`;
+
+exports[`check if the Quote section renders properly 1`] = `
+<div
+  className="quotes"
+>
+  <h2>
+    <u>
+      Quote
+    </u>
+  </h2>
+  <div>
+    <p />
+    <p>
+      <b />
+    </p>
+  </div>
+</div>
+`;
