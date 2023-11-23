@@ -32,7 +32,7 @@
 
 # 📖 Math Magicians <a name="Math Magicians: Project setup with React"></a>
 
-**Math Magicians**  is a single Page App (SPA) that is build to practice `React` and it is based on a calculator application  
+**Math Magicians**  is a single-page app (SPA) that is built to practice `React` and it is based on a calculator application  
 
 ## 🛠 Built With <a name="Visual Studio Code"></a>
 
@@ -61,7 +61,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-If you are a new developer then you can learn Use of React.js.
+If you are a new developer then you can learn the Use of React.js.
 
 To get a local copy up and running, follow these steps.
 
@@ -91,7 +91,7 @@ Install this project with:
 
 To run the project, execute the following command:
 - After Cloning this repo to your local machine
-- Open the `index.html` from public folder in your browser
+- Open the `index.html` from a public folder in your browser
 - Open with Live Server
 ### Run tests
 
@@ -156,7 +156,7 @@ If you like this project please give your valuable comments.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding partners for their help and support and Microvers for this oppertunity.
+I would like to thank my coding partners for their help and support and Microvers for this opportunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
